@@ -76,11 +76,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/vx.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://github.com/LouisHongYi/image/blob/main/avatar/vx.jpg
+  img: /img/vx.jpg
   effect: false
 
 # Disable all banner image
@@ -632,7 +632,7 @@ aside:
       link: https://github.com/LouisHongYi?tab=repositories
   card_announcement:
     enable: true
-    content: hey, it`s a
+    content: 嘿, 涵妹子，你好呀~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
