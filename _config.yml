@@ -193,10 +193,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-   - img: /img/wechat.jpg
+   - img: /img/wechat.png
      link:
      text: wechat
-   - img: /img/alipay.jpg
+   - img: /img/alipay.png
      link:
      text: alipay
 
