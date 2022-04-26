@@ -632,7 +632,7 @@ aside:
       link: https://github.com/LouisHongYi?tab=repositories
   card_announcement:
     enable: true
-    content: 嘿, 涵妹子，你好呀~
+    content: 五一想要去钓鱼。
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
